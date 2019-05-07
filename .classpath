@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/kherman/Documents/Hermann/Learning/JavaCard/Tools/BioMiniSDK.jar"/>
+	<classpathentry kind="lib" path="C:/JCDK/java_card_kit-2_2_2/lib/apduio.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
