@@ -1,0 +1,26 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 26, 2019, 9:15:38 AM
+    Author     : kherman
+*/
+
+#left-box{
+    -fx-border-color: blue; 
+}
+
+
+#center-box{
+    -fx-border-color: purple; 
+}
+
+#fpi-box{
+    -fx-border-color: greenyellow;
+}
+
+#mycanvas{
+    -fx-bacjground-color: blue;
+}
